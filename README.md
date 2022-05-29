@@ -14,7 +14,10 @@ CALIGIN is Clash Of Clans based family of 3 International Packed Clans.
 -FLAME OF RECCA
 
 
-NOTE:- 
+
+
+# NOTE 
+
 - The CALIGIN logo is copyrighted and cannot be used without permission.
 - The website is a Non-profit website which does not own any rights for any clash of clans pictures used there. They belong to Clash Of Clans and Clashwiki.com . For removal of any pictures from the website please contact us.
 
