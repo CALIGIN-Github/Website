@@ -19,5 +19,7 @@ NOTE:-
 - The website is a Non-profit website which does not own any rights for any clash of clans pictures used there. They belong to Clash Of Clans and Clashwiki.com . For removal of any pictures from the website please contact us.
 
 # Contact
+
 Email : caligin.coc@gmail.com
+
 Discord : https://discord.gg/ScsR7de 
